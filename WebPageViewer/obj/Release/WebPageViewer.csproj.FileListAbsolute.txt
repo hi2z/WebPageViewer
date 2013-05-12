@@ -10,3 +10,4 @@ c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageView
 c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\WebPageViewer.csproj.GenerateResource.Cache
 c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\WebPageViewer.exe
 c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\WebPageViewer.pdb
+C:\Users\Hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\WebPageViewer.csprojResolveAssemblyReference.cache

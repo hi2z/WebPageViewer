@@ -1,0 +1,12 @@
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\bin\Release\WebPageViewer.exe.config
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\bin\Release\WebPageViewer.exe
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\bin\Release\WebPageViewer.pdb
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\MainWindow.baml
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\MainWindow.g.cs
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\App.g.cs
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\WebPageViewer_MarkupCompile.cache
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\WebPageViewer.g.resources
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\WebPageViewer.Properties.Resources.resources
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\WebPageViewer.csproj.GenerateResource.Cache
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\WebPageViewer.exe
+c:\users\hitsuji\documents\visual studio 2012\Projects\WebPageViewer\WebPageViewer\obj\Release\WebPageViewer.pdb

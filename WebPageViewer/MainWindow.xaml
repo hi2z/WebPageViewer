@@ -1,0 +1,13 @@
+﻿<Window x:Class="WebPageViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Web Page Viewer" Height="559" Width="668" Topmost="True">
+    <Grid>
+        <WebBrowser x:Name="webbrowser" Margin="0,0,0,39" IsEnabled="False" Navigated="webbrower_navigated"/>
+        <CheckBox x:Name="c_AlwaysOnTop" Content="Always On Top" HorizontalAlignment="Left" Margin="10,0,0,10" Height="18" VerticalAlignment="Bottom" Checked="AlwaysOnTop_checked" Unchecked="AlwaysOnTop_unchecked" IsChecked="True"/>
+        <Button x:Name="b_openURL" Content="Open" Margin="0,0,10,7" HorizontalAlignment="Right" Width="75" Height="24" VerticalAlignment="Bottom" Click="b_openURL_Click"/>
+        <TextBox x:Name="URLinputBox" Margin="160,0,99,8" Text="" Height="23" VerticalAlignment="Bottom" KeyDown="OnKeyDownHandler"/>
+        <TextBlock HorizontalAlignment="Left" Margin="131,0,0,10" TextWrapping="Wrap" Text="URL" Height="18" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</Window>
